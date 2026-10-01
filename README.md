@@ -153,7 +153,7 @@ reto4_pobreza_infantil/
 ### Instalación
 
 ```bash
-git clone https://github.com/jdthgp27/Reto-4-Data-Mining-aplicado-a-Pobreza-Infantil.git
+git clone https://github.com/everest9957/Reto-4-Data-Mining-aplicado-a-Pobreza-Infantil.git
 cd Reto-4-Data-Mining-aplicado-a-Pobreza-Infantil
 
 python -m venv .venv
@@ -305,9 +305,9 @@ bash src/11_empaquetar.sh
 **Judit Giravent Pineda**
 
 - Business Analytics Student | Odisea Data
-- GitHub: [@jdthgp27](https://github.com/jdthgp27)
+- GitHub: [@everest9957](https://github.com/everest9957)
 - LinkedIn: [linkedin.com/in/judit-giravent-27b167156](https://linkedin.com/in/judit-giravent-27b167156)
-- Email: jdthgp27@gmail.com
+- Email: everest9957@gmail.com
 
 ---
 
